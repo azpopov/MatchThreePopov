@@ -1,0 +1,17 @@
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MatchThree.exe.config
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MatchThree.exe.manifest
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MatchThree.application
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MatchThree.exe
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MatchThree.pdb
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Interop.WMPLib.dll
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AxInterop.WMPLib.dll
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Interop.WMPLib.dll
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AxInterop.WMPLib.dll
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.csproj.ResolveComReference.cache
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.Properties.Resources.resources
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.csproj.GenerateResource.Cache
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.exe.manifest
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.application
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.exe
+C:\Users\arturpopov\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MatchThree.pdb
